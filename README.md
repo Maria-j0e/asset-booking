@@ -65,13 +65,5 @@ Includes:
 | Date Handling | date-fns                 |
 | Preprocessing | svelte-preprocess        |
 | Backend       | [Supabase](https://supabase.io) |
-| Fallback      | localStorage             |
 
----
 
-## Setup Instructions
-
-1. Clone the repository  
-   ```bash
-   git clone https://github.com/your-username/asset-booking-app.git
-   cd asset-booking-app
