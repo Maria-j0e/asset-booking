@@ -19,7 +19,7 @@
     background-color: rgba(106, 115, 125, 0.27);
   }
 }
-
+ 
 ::-webkit-scrollbar-corner {
   display: none;
 }
