@@ -7,7 +7,7 @@ function App() {
         <p className="text-lg text-muted-foreground animate-in fade-in delay-300 duration-700">Let's build something amazing</p>
       </div>
     </div>
-  );
+  ); 
 }
 
 export default App;
