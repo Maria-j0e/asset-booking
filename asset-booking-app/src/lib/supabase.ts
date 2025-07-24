@@ -1,9 +1,6 @@
 import { createClient } from '@supabase/supabase-js';
 import type { Asset, Booking } from './types';
 
-// Supabase configuration
-const supabaseUrl = 'https://nppoihfxfpbueoboqmza.supabase.co';
-const supabaseAnonKey = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im5wcG9vaWhmeGZwYnVlb2JxbXphIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTMyNzAxMDAsImV4cCI6MjA2ODg0NjEwMH0.i_z3LhW0XqYoCDZTForjHye-VtsHPyJflBngyRrC7hI';
 
 // Flag to indicate if Supabase is available
 const isSupabaseEnabled = true; // Setting to true since Supabase is now enabled
